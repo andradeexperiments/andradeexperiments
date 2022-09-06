@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my profile! Here i share my config files and some personal projects 🦊
 
 <div align="center">
   <a href="https://github.com/phiandrade">
