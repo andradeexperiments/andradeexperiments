@@ -1,4 +1,4 @@
-## Welcome to my profile! Here I share my config files and some personal projects 🐟
+## Welcome to my profile! Here I share my config files and some personal projects 🐋
 
 <div align="center">
   <a href="https://github.com/andradeexperiments">
