@@ -8,6 +8,4 @@
 
   ##
   
-  ![Snake animation](https://github.com/andradeexperiments/andradeexperiments/blob/output/github-contribution-grid-snake.svg)
-  
  </div>
